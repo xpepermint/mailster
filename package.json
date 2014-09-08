@@ -1,6 +1,6 @@
 {
   "name": "mailster",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Advanced mailer for NodeJS.",
   "main": "index.js",
   "scripts": {
